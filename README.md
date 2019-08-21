@@ -1,8 +1,5 @@
-ThinkCMF 5.0.180525 正式版
+微信群搜索平台 V 1.0
 ===============
-
-### 系列讲座
-https://www.thinkcmf.com/college.html
 
 ### ThinkCMF5主要特性
 * 基于全新 ThinkPHP5.0开发
